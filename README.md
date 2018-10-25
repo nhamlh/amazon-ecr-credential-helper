@@ -1,5 +1,7 @@
 # Amazon ECR Docker Credential Helper
 
+NOTICE: DUMP REPO TO MERELY DISTRIBUTE BINARY FOR UPSTREAM REPO
+
 ![Amazon ECR logo](doc/ecr.png "Amazon ECR")
 
 [![Build Status](https://travis-ci.org/awslabs/amazon-ecr-credential-helper.svg?branch=master)](https://travis-ci.org/awslabs/amazon-ecr-credential-helper)
